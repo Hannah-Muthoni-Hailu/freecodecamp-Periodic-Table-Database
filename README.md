@@ -18,9 +18,5 @@ chmod +x element.sh
 Finally, run the elements script by passing in arguments (the element you want to view) after the command:
 ```
 ./element.sh 1 
-#or
-./element.sh H
-#or
-./element.sh Hydrogen
 ```
 If no argument is passed in, the script simply outputs an error message without crashing.
